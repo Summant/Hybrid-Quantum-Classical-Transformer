@@ -70,9 +70,10 @@ A full mathematical description of:
 - Transformer attention
 - Multi-head attention
 - QNN encoding, circuit structure, and measurement
-
+as well as:
+- Results
+- Comparison against classical FFN
 is provided in:
 
-👉 **[`docs/paper.pdf`](docs/paper.pdf)**
+ **[`docs/paper.pdf`](docs/paper.pdf)**
 
-This separation keeps the README clean while preserving full technical detail.
